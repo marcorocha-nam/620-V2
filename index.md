@@ -4,7 +4,7 @@ layout: default
 
 # Marco Rocha
 
-[Email](mailto:marcoroch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marco-rocha-%E9%A9%AC%E5%8F%AF-%E7%BD%97%E5%8D%A1-9b8a5743/)
+[Email](mailto:marcoroch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/marco-rocha-9b8a5743/)
 
 ## About
 
